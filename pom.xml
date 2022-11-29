@@ -11,8 +11,8 @@
 	<groupId>com.myFinanceApp</groupId>
 	<artifactId>finaceApp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>finaceApp</name>
-	<description>finaceApp</description>
+	<name>financeApp</name>
+	<description>financeApp</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
